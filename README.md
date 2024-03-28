@@ -1,5 +1,5 @@
 # Case-Social-Connect
-Social Connect é um projeto inovador no setor automotivo focado na construção de veículos elétricos de alto desempenho. O objetivo do projeto é criar uma experiência única para os clientes e entregar carros personalizados e de alta qualidade.
+A Social Connect é uma empresa inovadora que te conecta com as pessoas certas. O objetivo do projeto é criar uma experiência única para os clientes e entregar carros personalizados e de alta qualidade.
 
 Alterações feitas:
 
